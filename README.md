@@ -5,7 +5,7 @@ Proyecto no. 1 de Redes.
 Se debe tener la version 16 de node. 
 Una vez instalada dicha version se puede ir a la terminar y correr "npm install" dentro del directorio del proyecto
 
-Una vez isntaladas las dependencias y librerias se puede correr el proyecto con "node main.js"
+Una vez instaladas las dependencias y librerias se puede correr el proyecto con "node main.js"
 
 #Installation
 You must have version 16 of node.
